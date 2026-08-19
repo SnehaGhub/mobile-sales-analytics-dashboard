@@ -2,8 +2,6 @@
 
 An interactive business intelligence dashboard for analyzing mobile phone sales across brands, models, cities, payment methods, and time periods.
 
-📸 Dashboard Preview
-
 ## 📸 Dashboard Preview
 
 ![Mobile Sales Dashboard](./dashboard.png)
