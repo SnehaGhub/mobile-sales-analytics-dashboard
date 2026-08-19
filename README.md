@@ -4,7 +4,9 @@ An interactive business intelligence dashboard for analyzing mobile phone sales 
 
 📸 Dashboard Preview
 
-![Mobile Sales Dashboard](dashboard-preview.png)
+## 📸 Dashboard Preview
+
+![Mobile Sales Dashboard](./dashboard.png)
 
 
 📊 Project Overview
